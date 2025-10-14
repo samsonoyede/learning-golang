@@ -1,0 +1,23 @@
+
+
+// Simple Declarations that can be done anywhere
+// var a int;
+
+// var (b=2,f=2.01)
+
+// // Short declaration operator, Only used inside functions
+// c := 2;
+
+
+// Booleans 
+bool has two values false, true
+
+//Error
+an error maybe nil or non-nil
+
+// Pointers are physical address 
+A pointer maybe nil or non-nil 
+
+// Constants 
+
+Constants in go can only be numbers, strings, booleans and thy are immutable meaning they cannot change
