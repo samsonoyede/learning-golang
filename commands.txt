@@ -1,0 +1,9 @@
+// Initialize new go project
+go mod init <project-name>
+
+//Execute Entry Point
+ go run .
+
+
+ // Feeding a txt file to a go progam
+ go run . jerry summer < test.txt

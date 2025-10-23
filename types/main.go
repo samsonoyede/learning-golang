@@ -5,6 +5,8 @@ import (
 	"os"
 )
 
+// strings are immutable
+
 func main() {
 	var sum float64
 	var n int
